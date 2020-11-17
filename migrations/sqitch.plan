@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=crud_dev
+
+init 2020-11-11T18:06:21Z joris,,, <joris@joris-ubuntu> # init tables
+import_data 2020-11-11T18:08:41Z joris,,, <joris@joris-ubuntu> # import default user
+functions 2020-11-11T18:09:33Z joris,,, <joris@joris-ubuntu> # functions
